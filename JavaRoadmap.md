@@ -35,11 +35,11 @@
 
 - Classes & Objects
 - Constructors
-- Method overloading
-- Method overriding
 - Encapsulation
 - Inheritance
 - Polymorphism
+- Method overloading
+- Method overriding
 - Abstraction
 - Interfaces
 - Abstract classes
